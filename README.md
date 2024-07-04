@@ -1,6 +1,6 @@
 Welcome to my GitHub page! 👋
 
-I'm Alvin Kiveu, a fullstack developer from Kenya 🇰🇪 with a deep passion for technology 💻 and creative problem-solving 🧩. My ever-expanding skill set enables me to tackle both front-end 🎨 and back-end 🛠️ development, giving me a wide array of technical capabilities.
+I'm Issah Awadh, a fullstack developer from Kenya 🇰🇪 with a deep passion for technology 💻 and creative problem-solving 🧩. My ever-expanding skill set enables me to tackle both front-end 🎨 and back-end 🛠️ development, giving me a wide array of technical capabilities.
 
 What excites me most about being a fullstack developer is the constant opportunity to learn 📚 and adapt to new technologies 🌐. This dynamic field keeps me on my toes 🏃 and ensures I stay ahead of the curve with the latest trends and best practices 🚀.
 
